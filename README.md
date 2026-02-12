@@ -1,5 +1,5 @@
-# cs332-algorithms
-practice algorithm implementations
+# cs332 Algorithms
+different algorithm implementations on python 
 
 week01:
 - merge sort and runnig time; Big O
